@@ -3,4 +3,9 @@
 > a Domainer Team
 
 
+## Dom'ing
++ [ ] 
++ [ ] 
++ [ ] 
++ [ ] 
 
