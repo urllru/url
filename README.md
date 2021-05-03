@@ -1,6 +1,9 @@
 # urllru : URL
 
-> a Domainer Team
+> a Domainer Team / user
+
+- tech/code notx
+
 
 
 ## Dom'ing
